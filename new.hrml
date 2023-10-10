@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<!-- saved from url=(0069)file:///D:/Desktop/%E7%AC%AC%E4%B8%80%E4%B8%AA%E7%BD%91%E9%A1%B5.html -->
+<html lang="zh-CN">
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>橘子名片</title>
+  <style>
+    h1 {
+      color: rgb(36, 226, 106);
+    }
+
+    .kwc {
+      color: rgb(0, 0, 0);
+    }
+  </style>
+
+</head>
+
+<body style="margin: 20px;background-color: #9dff00;border: 2px solid red;padding: 10px">
+  <div style="
+      background-color: #f1f1f1;
+      text-align: center;
+      padding: 30px;
+      ">
+    <h1 style="background-color: #c61d1d; color: #fff;">这是我第一个网址</h1>
+    <img alt="橘子" src="./第一个网页_files/QQ图片20231010224833.jpg" width="80px" height="80px">
+  </div>
+  <div style="
+      background-color: #ffffff;
+      text-align: center;
+      padding: 40px;
+      ">
+    <span class="kwc" style="background-color: #9f00f5;">尊敬的康文昌先生，</span><br><br>
+    <span class="kwc" style="background-color: #ffe100;">
+      首先我想向您表达我最诚挚的感谢。<br><br>
+      我最近开始学习编程，而您在抖音上分享的有关编程的内容对我有着巨大的帮助。<br><br>
+      您的解释非常清晰，您能够用简单明了的语言解释复杂的概念，这对于一个初学者来说非常重要。<br><br>
+      您的视频不仅教会了我一些基本的编程知识，还激发了我对编程的兴趣和热情。<br><br>
+      您的教学方式非常亲切和互动，这让我感到非常舒适和自信。无论是对于简单的问题还是复杂的概念，您总是给予耐心和细致的解答，帮助我更好地理解和掌握。<br><br>
+      感谢您的无私分享和辛勤工作，让我有机会在编程的道路上快速进步。<br><br>
+      我真的很感激您的帮助和支持。<br><br>
+      衷心感谢您，祝愿您在分享编程知识的道路上越走越远。</span><br><br>
+    <span class="kwc" style="background-color: #00fbff;">最诚挚的问候， [橘子]</span>
+  </div>
+
+  <div style="
+      background-color: #f1f1f1;
+      text-align: center;
+      padding: 40px;
+      ">
+    <p>版权所有:橘子</p>
+    <a href="file:///D:/Desktop/%E7%AC%AC%E4%B8%80%E4%B8%AA%E7%BD%91%E9%A1%B5.html">我的网址</a>
+  </div>
+
+
+
+</body>
+
+</html>
